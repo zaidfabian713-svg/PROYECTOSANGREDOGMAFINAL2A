@@ -1,0 +1,19 @@
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\portada.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv1.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv2.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv3.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv4.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv5.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv6.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\duende_nv7.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\prota_1.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\prota_2.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\prota_3.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\prota_4.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\prota_5.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\PROYECTO SANGRE Y DOGMA.exe.config
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\PROYECTO SANGRE Y DOGMA.exe
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\PROYECTO SANGRE Y DOGMA.pdb
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.exe
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.pdb

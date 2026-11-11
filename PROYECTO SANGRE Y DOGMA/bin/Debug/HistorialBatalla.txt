@@ -1,0 +1,42 @@
+=== HISTORIAL DE BATALLA - SANGRE Y DOGMA ===
+Fecha: 10/11/2026 21:53:55
+---------------------------------------------
+[R1] Inicia el combate. Sorteo aleatorio: empieza Jugador 1.
+[R1] Fabián - El Titán de Hierro ataca a Duende Chamán Nv. 3 (-18 HP).
+[R1] Fabián - El Titán de Hierro ataca a Duende Chamán Nv. 3 (-18 HP).
+[R1] Duende Chamán Nv. 3 ataca a Fabián - El Titán de Hierro (-12 HP).
+[R2] 0 seg -> Pasa turno.
+[R2] Duende Chamán Nv. 3 [Ataque Duende Nv.3: -19 HP]
+[R3] Fabián - El Titán de Hierro ataca a Duende Chamán Nv. 3 (-18 HP).
+[R3] Relevo J2: -> Duende Cazador Nv. 4
+[R3] Fabián - El Titán de Hierro ataca a Duende Cazador Nv. 4 (-19 HP).
+[R3] Duende Cazador Nv. 4 ataca a Fabián - El Titán de Hierro (-15 HP).
+[R3] Relevo J1: -> Deibislin - La Maga de Fuego
+[R4] Deibislin - La Maga de Fuego ataca a Duende Cazador Nv. 4 (-23 HP).
+[R4] Deibislin - La Maga de Fuego ataca a Duende Cazador Nv. 4 (-23 HP).
+[R4] Relevo J2: -> Duende Berserker Nv. 5
+[R4] Deibislin - La Maga de Fuego ataca a Duende Berserker Nv. 5 (-34 HP).
+[R4] Duende Berserker Nv. 5 ataca a Deibislin - La Maga de Fuego (-20 HP).
+[R5] Deibislin - La Maga de Fuego ataca a Duende Berserker Nv. 5 (-34 HP).
+[R5] Relevo J2: -> Duende Capitán Nv. 6
+[R5] Duende Capitán Nv. 6 ataca a Deibislin - La Maga de Fuego (-32 HP).
+[R5] Relevo J1: -> Jesús - El Curandero Blanco
+[R6] Jesús - El Curandero Blanco ataca a Duende Capitán Nv. 6 (-13 HP).
+[R6] Jesús - El Curandero Blanco ataca a Duende Capitán Nv. 6 (-13 HP).
+[R6] Jesús - El Curandero Blanco ataca a Duende Capitán Nv. 6 (-13 HP).
+[R6] Duende Capitán Nv. 6 [Ataque Duende Nv.6: -28 HP]
+[R7] Relevo J1: -> Yeferson - El Alquimista
+[R7] Duende Capitán Nv. 6 ataca a Yeferson - El Alquimista (-19 HP).
+[R8] Yeferson - El Alquimista ataca a Duende Capitán Nv. 6 (-24 HP).
+[R8] Relevo J2: -> Jefe Duende Nv. 7
+[R8] Relevo J1: -> Ereu - El Brujo de Sombras
+[R8] Jefe Duende Nv. 7 ataca a Ereu - El Brujo de Sombras (-21 HP).
+[R9] Ereu - El Brujo de Sombras ataca a Jefe Duende Nv. 7 (-25 HP).
+[R9] Ereu - El Brujo de Sombras ataca a Jefe Duende Nv. 7 (-25 HP).
+[R9] SE ACABÓ EL COMBATE - GANADOR: Jugador 1
+
+==================================================
+>>> SE ACABÓ EL COMBATE <<<
+Fecha y Hora de Fin: 10/11/2026 21:53:55
+RESULTADO FINAL - GANADOR DE LA PARTIDA: Jugador 1
+==================================================
