@@ -5,32 +5,7 @@ using System.IO;
 
 namespace PROYECTO_SANGRE_Y_DOGMA
 {
-	/*
-	 * Script SQL de las 3 tablas con PK y FK:
-	 * 
-	 * CREATE DATABASE SangreYDogmaDB;
-	 * USE SangreYDogmaDB;
-	 * 
-	 * CREATE TABLE Jugadores (
-	 *     IdJugador INT PRIMARY KEY IDENTITY(1,1),
-	 *     Nombre VARCHAR(50) NOT NULL
-	 * );
-	 * 
-	 * CREATE TABLE Personajes (
-	 *     IdPersonaje INT PRIMARY KEY IDENTITY(1,1),
-	 *     IdJugador INT NOT NULL,
-	 *     NombresMazo VARCHAR(250) NOT NULL,
-	 *     FOREIGN KEY (IdJugador) REFERENCES Jugadores(IdJugador)
-	 * );
-	 * 
-	 * CREATE TABLE Estadisticas (
-	 *     IdEstadistica INT PRIMARY KEY IDENTITY(1,1),
-	 *     IdJugador INT NOT NULL,
-	 *     Victorias INT DEFAULT 0,
-	 *     Derrotas INT DEFAULT 0,
-	 *     FOREIGN KEY (IdJugador) REFERENCES Jugadores(IdJugador)
-	 * );
-	 */
+
 
 	public class RegistroJugadorBD
 	{

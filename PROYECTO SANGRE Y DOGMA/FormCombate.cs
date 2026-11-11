@@ -1,4 +1,5 @@
 using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace PROYECTO_SANGRE_Y_DOGMA
@@ -267,8 +268,6 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			CambiarTurno();
 		}
 
-		// Metodo exigido por el profesor: si la vida llega a 0 y la Cola de relevos esta vacia,
-		// declara al ganador y deshabilita (Enabled = false) todos los botones de accion
 		private void VerificarFinDePartida()
 		{
 			if (CartaJ1.HP <= 0)
@@ -397,6 +396,17 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 				GuardarLog("0 seg -> Pasa turno.");
 				CambiarTurno();
 			}
+		}
+
+		// Cambia la ilustracion del PictureBox cuando se selecciona otra Carta de Escenario
+		private void CmbEscenarioSelectedIndexChanged(object sender, EventArgs e)
+		{
+			int i = cmbEscenario.SelectedIndex;
+			if (i < 0 || i >= Gestor.ListaEscenarios.Count) return;
+
+			Image anterior = picEscenario.Image;
+			picEscenario.Image = CalculadoraCombate.ObtenerImagenEscenario(Gestor.ListaEscenarios[i]);
+			if (anterior != null) anterior.Dispose();
 		}
 
 		// Aplica Buff (+4 ATK) o Nerf (-2 DEF) llamando a CalculadoraCombate.AplicarEscenario()

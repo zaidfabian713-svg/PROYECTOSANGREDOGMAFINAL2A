@@ -17,3 +17,27 @@ C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOG
 C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.csprojResolveAssemblyReference.cache
 C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.exe
 C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\obj\Debug\PROYECTO SANGRE Y DOGMA.pdb
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\portada.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv1.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv2.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv3.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv4.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv5.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv6.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\duende_nv7.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\prota_1.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\prota_2.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\prota_3.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\prota_4.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\prota_5.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\escenario_agua.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\escenario_fuego.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\escenario_tierra.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\escenario_viento.jpg
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\PROYECTO SANGRE Y DOGMA.exe.config
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\PROYECTO SANGRE Y DOGMA.exe
+C:\Users\WINDOWS\AppData\Local\Temp\sd_build\PROYECTO SANGRE Y DOGMA.pdb
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\escenario_agua.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\escenario_fuego.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\escenario_tierra.jpg
+C:\Users\WINDOWS\OneDrive\Documentos\SharpDevelop Projects\PROYECTO SANGRE Y DOGMA\PROYECTO SANGRE Y DOGMA\bin\Debug\escenario_viento.jpg

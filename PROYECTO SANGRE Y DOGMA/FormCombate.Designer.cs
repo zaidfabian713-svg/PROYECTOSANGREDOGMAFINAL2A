@@ -13,6 +13,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 		private System.Windows.Forms.ComboBox cmbEscenario;
 		private System.Windows.Forms.Button btnAplicarEscenario;
 		private System.Windows.Forms.Button btnTerremoto;
+		private System.Windows.Forms.PictureBox picEscenario;
 		private System.Windows.Forms.GroupBox grpJugador1;
 		private System.Windows.Forms.PictureBox picCartaJ1;
 		private System.Windows.Forms.Label lblDatosJ1;
@@ -59,6 +60,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.cmbEscenario = new System.Windows.Forms.ComboBox();
 			this.btnAplicarEscenario = new System.Windows.Forms.Button();
 			this.btnTerremoto = new System.Windows.Forms.Button();
+			this.picEscenario = new System.Windows.Forms.PictureBox();
 			this.grpJugador1 = new System.Windows.Forms.GroupBox();
 			this.picCartaJ1 = new System.Windows.Forms.PictureBox();
 			this.lblColaJ1 = new System.Windows.Forms.Label();
@@ -83,6 +85,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.lblBitacora = new System.Windows.Forms.Label();
 			this.lstBitacora = new System.Windows.Forms.ListBox();
 			this.timerTurno = new System.Windows.Forms.Timer(this.components);
+			((System.ComponentModel.ISupportInitialize)(this.picEscenario)).BeginInit();
 			this.grpJugador1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.picCartaJ1)).BeginInit();
 			this.grpJugador2.SuspendLayout();
@@ -133,6 +136,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.cmbEscenario.Name = "cmbEscenario";
 			this.cmbEscenario.Size = new System.Drawing.Size(280, 22);
 			this.cmbEscenario.TabIndex = 3;
+			this.cmbEscenario.SelectedIndexChanged += new System.EventHandler(this.CmbEscenarioSelectedIndexChanged);
 			// 
 			// btnAplicarEscenario
 			// 
@@ -157,6 +161,17 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.btnTerremoto.Text = "Terremoto";
 			this.btnTerremoto.UseVisualStyleBackColor = false;
 			this.btnTerremoto.Click += new System.EventHandler(this.BtnTerremotoClick);
+			// 
+			// picEscenario
+			// 
+			this.picEscenario.BackColor = System.Drawing.Color.White;
+			this.picEscenario.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+			this.picEscenario.Location = new System.Drawing.Point(864, 12);
+			this.picEscenario.Name = "picEscenario";
+			this.picEscenario.Size = new System.Drawing.Size(165, 220);
+			this.picEscenario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+			this.picEscenario.TabIndex = 15;
+			this.picEscenario.TabStop = false;
 			// 
 			// grpJugador1
 			// 
@@ -413,7 +428,8 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.FromArgb(232, 238, 247);
-			this.ClientSize = new System.Drawing.Size(864, 480);
+			this.ClientSize = new System.Drawing.Size(1044, 480);
+			this.Controls.Add(this.picEscenario);
 			this.Controls.Add(this.btnMostrarHistoria);
 			this.Controls.Add(this.lstBitacora);
 			this.Controls.Add(this.lblBitacora);
@@ -435,6 +451,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
 			this.Text = "Sangre y Dogma: Arena Elemental";
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCombateFormClosing);
+			((System.ComponentModel.ISupportInitialize)(this.picEscenario)).EndInit();
 			this.grpJugador1.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.picCartaJ1)).EndInit();
 			this.grpJugador2.ResumeLayout(false);

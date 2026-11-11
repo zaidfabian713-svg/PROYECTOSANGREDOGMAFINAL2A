@@ -2,3 +2,5 @@
 10/11/2026 16:07 | Jugador 1 | Puntaje: 200 pts
 10/11/2026 18:52 | Jugador 1 | Puntaje: 190 pts
 10/11/2026 21:53 | Jugador 1 | Puntaje: 190 pts
+11/11/2026 07:51 | Jugador 2 | Puntaje: 190 pts
+11/11/2026 07:57 | Jugador 1 | Puntaje: 190 pts

@@ -123,7 +123,7 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 			else
 			{
 				CartaEscenario esc = Gestor.ListaEscenarios[i - Gestor.ListaPersonajes.Count];
-				picCarta.Image = null;
+				picCarta.Image = CalculadoraCombate.ObtenerImagenEscenario(esc);
 				lblInfoCarta.Text = esc.Nombre + "\r\n[Escenario - " + esc.Elemento + "]";
 
 				if (MainForm.Idioma == "ES")

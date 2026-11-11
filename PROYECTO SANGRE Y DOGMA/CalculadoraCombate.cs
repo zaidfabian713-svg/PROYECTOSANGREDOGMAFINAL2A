@@ -5,8 +5,7 @@ using System.IO;
 namespace PROYECTO_SANGRE_Y_DOGMA
 {
 	// CLASE DE LOGICA MATEMATICA: CalculadoraCombate
-	// Nota para el profesor: Siguiendo su correccion, separamos todos los calculos matematicos
-	// en esta clase aparte para que Personaje.cs quede limpio solo con sus propiedades (get y set).
+
 
 	public static class CalculadoraCombate
 	{
@@ -216,6 +215,21 @@ namespace PROYECTO_SANGRE_Y_DOGMA
 				if (bmpDuende != null) return bmpDuende;
 			}
 			return GenerarImagenCarta(p);
+		}
+
+		// Obtiene la ilustracion de una Carta de Escenario segun su elemento (escenario_agua.jpg, escenario_tierra.jpg, etc.)
+		public static Image ObtenerImagenEscenario(CartaEscenario esc)
+		{
+			if (esc == null) return null;
+
+			string archivo = null;
+			if (esc.Elemento == "Agua") archivo = "escenario_agua.jpg";
+			else if (esc.Elemento == "Tierra") archivo = "escenario_tierra.jpg";
+			else if (esc.Elemento == "Viento") archivo = "escenario_viento.jpg";
+			else if (esc.Elemento == "Fuego") archivo = "escenario_fuego.jpg";
+
+			if (archivo == null) return null;
+			return CargarImagenSinBloqueo(BuscarRutaArchivo(archivo));
 		}
 
 		// 6. Dibuja visualmente la carta del personaje para mostrarla en el PictureBox durante el combate

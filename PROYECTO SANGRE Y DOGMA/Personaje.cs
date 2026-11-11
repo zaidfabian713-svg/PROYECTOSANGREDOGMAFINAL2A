@@ -3,9 +3,7 @@ using System;
 namespace PROYECTO_SANGRE_Y_DOGMA
 {
 	// CLASE PADRE: Personaje (Modelo de Datos con Encapsulamiento)
-	// Nota para el profesor: Siguiendo la correccion de arquitectura, esta clase solo contiene
-	// los atributos privados, sus propiedades encapsuladas (get y set), constructores y clonacion.
-	// Toda la logica matematica de dano y limites se separo en la clase CalculadoraCombate.cs.
+
 	public class Personaje
 	{
 		private int id;

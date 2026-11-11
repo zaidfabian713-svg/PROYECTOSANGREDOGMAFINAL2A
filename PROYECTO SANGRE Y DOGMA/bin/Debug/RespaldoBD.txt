@@ -1,1 +1,2 @@
-1;Jugador 1;6;0;Fabián, Deibislin, Jesús, Yeferson, Ereu
+1;Jugador 1;7;1;Fabián, Deibislin, Jesús, Yeferson, Ereu
+2;pedro;0;0;Fabián - El Titán de Hierro, Deibislin - La Maga de Fuego, Jesús - El Curandero Blanco, Yeferson - El Alquimista, Ereu - El Brujo de Sombras

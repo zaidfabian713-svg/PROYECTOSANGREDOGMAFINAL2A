@@ -4,14 +4,7 @@ using System.IO;
 
 namespace PROYECTO_SANGRE_Y_DOGMA
 {
-	// CLASE GESTORA DE ESTRUCTURAS DE DATOS (Contrato de Aprendizaje + Enunciado)
-	// Nota para el profesor:
-	// 1. Usamos Arreglo fijo (Personaje[]) y Listas (List<Personaje>) con .Add(), .Remove() y foreach
-	//    para cumplir el Contrato de Aprendizaje en el manejo del catalogo de 12 personajes y los mazos.
-	// 2. Usamos Cola (Queue<Personaje>) UNICAMENTE para el orden de relevos en combate (FIFO: el primero
-	//    en la fila es el primero en entrar a pelear).
-	// 3. Usamos Pila (Stack<string>) UNICAMENTE para el historial de ataques (LIFO: el ultimo ataque
-	//    ocurrido queda en el tope del registro).
+
 	public class GestorEstructuras
 	{
 		// Arreglo estatico de 12 cartas de personaje (3 por cada una de las 4 facciones elementales)
